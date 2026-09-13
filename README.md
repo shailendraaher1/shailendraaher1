@@ -9,7 +9,8 @@ Passionate and data-driven M.Pharmacy (Pharmacology), B.Pharmacy, D.Pharmacy , P
  Certified in Good Clinical Practice (ICH-GCP E6) with hands-on expertise in Phase III Oncology clinical trial workflows, seeking an Entry-level Clinical SAS / Statistical Programmer role in a global CRO or sponsor organization.
 
 
-EDUCATION
+     ........................................EDUCATION
+
 •  M.Pharm in Pharmacology | Savitribai Phule Pune University (SPPU) | 2024–2026 | CGPA: 7.82
 •  B.Pharm (Bachelor of Pharmacy) | Savitribai Phule Pune University (SPPU) | 2021–2024 | CGPA: 7.45
 •  D.Pharm (Diploma in Pharmacy) | MSBTE, Maharashtra | 2017–2020 | Marks: 87.30%
