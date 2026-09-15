@@ -64,6 +64,7 @@ seeking an Entry-level Clinical SAS / Statistical Programmer role in a global CR
 **Execution & Reporting :-**  Developed a Phase III oncology data workflow (N=500), performed comprehensive SDTM mapping, created analysis-ready ADaM datasets, and generated regulatory-compliant TLFs along with QC & survival analysis (OS/PFS).
 
 
+<br>
 
 
 •   <u>**B.PHARM PROJECT & PUBLICATIONS (SPPU, 2024)**</u> :-
