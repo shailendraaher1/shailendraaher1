@@ -57,15 +57,16 @@ seeking an Entry-level Clinical SAS / Statistical Programmer role in a global CR
 
 ##  **ACADEMIC PROJECTS & PUBLICATIONS**
 
-•  * <u>**M.PHARM THESIS PROJECT (SPPU, 2026)**</u> :-
+•   <u>**M.PHARM THESIS PROJECT (SPPU, 2026)**</u> :-
 
 **Title :-**  End-To-End Statistical Programming And Transformation Of Raw Data To CDISC Standards (SDTM, ADaM, TLFs) For Synthetic Oncology Clinical Trial Data Using SAS OnDemand.
 
 **Execution & Reporting :-**  Developed a Phase III oncology data workflow (N=500), performed comprehensive SDTM mapping, created analysis-ready ADaM datasets, and generated regulatory-compliant TLFs along with QC & survival analysis (OS/PFS).
 
-<br>
 
-•  * <u>**B.PHARM PROJECT & PUBLICATIONS (SPPU, 2024)**</u> :-
+-
+
+•   <u>**B.PHARM PROJECT & PUBLICATIONS (SPPU, 2024)**</u> :-
 
  Needle-Free Injection Technology - Review article published in Official Monthly Newsmagazine of the Indian Pharmaceutical Association (PHARMA TIMES) | Indexed in Scopus & Embase.
  
