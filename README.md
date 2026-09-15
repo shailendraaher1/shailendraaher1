@@ -6,7 +6,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-SAS Certified Specialist (Base SAS 9.4) and M.Pharm (Pharmacology) postgraduate with 4-month industry internship & advanced training in SAS, Python, and R Programming at CliniHunt Skilix Academy, Pune. Specialized in end-to-end clinical data transformation, CDISC standards (SDTM/ADaM mapping), and regulatory-compliant TLF generation using SAS OnDemand for Academics. Certified in Good Clinical Practice (ICH-GCP E6) with hands-on expertise in Phase III Oncology clinical trial workflows, 
+SAS Certified Specialist (Base SAS 9.4) and M.Pharm (Pharmacology) postgraduate with 4-month industry internship & advanced training in SAS, And R Programming at CliniHunt Skilix Academy, Pune. Specialized in end-to-end clinical data transformation, CDISC standards (SDTM/ADaM mapping), and regulatory-compliant TLF generation using SAS OnDemand for Academics. Certified in Good Clinical Practice (ICH-GCP E6) with hands-on expertise in Phase III Oncology clinical trial workflows, 
 seeking an Entry-level Clinical SAS / Statistical Programmer role in a global CRO or sponsor organization
 
 ---
@@ -27,7 +27,7 @@ seeking an Entry-level Clinical SAS / Statistical Programmer role in a global CR
 
 •  **Good Clinical Practice (ICH-GCP E6):** NIDA Clinical Trials Network (Issued Jul 2026)
 
-•  **Clinical SAS Intern :**  4-Month Industry Internship & Advanced Training (SAS, Python, R Programming) at CliniHunt Skilix Academy,       Pune;  worked on Live Client Consultation Projects for End-to-End CDISC - SDTM / ADaM / TLFs Workflow.
+•  **Clinical SAS Intern :**  4-Month Industry Internship & Advanced Training (SAS, R Programming) at CliniHunt Skilix Academy, Pune;  worked on Live Client Consultation Projects for End-to-End CDISC - SDTM / ADaM / TLFs Workflow.
 
 •  **Data Analysis with Python :-**  Certificate Course by IBM (via Coursera)
 
