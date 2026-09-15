@@ -81,11 +81,10 @@ o	**Clinical Research**: Review article published in International Journal of Cr
 
 ✉️ Email: shailendraaher21@gmail.com 
 
-
   linkedin.com/in/shailendra-aher
-<br>   
+
 📞 Contact: +91 8605969908 
-<br>
+
 📍 Location: Pune, Maharashtra, India
 
 ---
