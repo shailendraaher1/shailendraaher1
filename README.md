@@ -1,9 +1,6 @@
 # shailendraaher1
 
-## Hello! 👋 I’m Shailendra Aher 
-
-**Pune, Maharashtra, India | +91 8605969908 | shailendraaher21@gmail.com | 
-linkedin.com/in/shailendra-aher**
+## Hello 👋 I’m Shailendra Aher 
 
 ---
 
@@ -66,7 +63,7 @@ seeking an Entry-level Clinical SAS / Statistical Programmer role in a global CR
 
 **Execution & Reporting :-**  Developed a Phase III oncology data workflow (N=500), performed comprehensive SDTM mapping, created analysis-ready ADaM datasets, and generated regulatory-compliant TLFs along with QC & survival analysis (OS/PFS).
 
-
+<br>
 
 •  **B.PHARM PROJECT & PUBLICATIONS (SPPU, 2024)** :-
 
@@ -81,6 +78,7 @@ o	**Clinical Research**: Review article published in International Journal of Cr
 ## 💬  **Let's Connect & Collaborate** :-
 
 ✉️ Email: shailendraaher21@gmail.com 
+   linkedin.com/in/shailendra-aher
 📞 Contact: +91 8605969908 
 📍 Location: Pune, Maharashtra, India
 
