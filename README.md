@@ -58,26 +58,27 @@ seeking an Entry-level Clinical SAS / Statistical Programmer role in a global CR
 
 ---
 
-## **ACADEMIC PROJECTS & PUBLICATIONS**
+##  **ACADEMIC PROJECTS & PUBLICATIONS**
 
-• ### **M.PHARM THESIS PROJECT (SPPU, 2026) :-**
+•  **M.PHARM THESIS PROJECT (SPPU, 2026)** :-
 
 **Title :-**  End-To-End Statistical Programming And Transformation Of Raw Data To CDISC Standards (SDTM, ADaM, TLFs) For Synthetic Oncology Clinical Trial Data Using SAS OnDemand.
 
 **Execution & Reporting :-**  Developed a Phase III oncology data workflow (N=500), performed comprehensive SDTM mapping, created analysis-ready ADaM datasets, and generated regulatory-compliant TLFs along with QC & survival analysis (OS/PFS).
 
 
-• ### **B.PHARM PROJECT & PUBLICATIONS (SPPU, 2024) :-**
+
+•  **B.PHARM PROJECT & PUBLICATIONS (SPPU, 2024)** :-
 
  Needle-Free Injection Technology - Review article published in Official Monthly Newsmagazine of the Indian Pharmaceutical Association (PHARMA TIMES) | Indexed in Scopus & Embase.
  
-**o	Pharmacovigilance :** Review article published in International Journal of Pharmaceutical Research.
+o	**Pharmacovigilance** : Review article published in International Journal of Pharmaceutical Research.
 
-o	**Clinical Research :** Review article published in International Journal of Creative Research Thoughts
+o	**Clinical Research**: Review article published in International Journal of Creative Research Thoughts
 
 ---
 
-💬 ## **Let's Connect & Collaborate** :-
+## 💬  **Let's Connect & Collaborate** :-
 
 ✉️ Email: shailendraaher21@gmail.com 
 📞 Contact: +91 8605969908 
