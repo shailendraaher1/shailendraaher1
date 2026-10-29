@@ -6,7 +6,7 @@
 
 ## PROFESSIONAL SUMMARY
 
-SAS Certified Specialist (Base SAS 9.4) and M.Pharm (Pharmacology) postgraduate with 4-month industry internship & advanced training in SAS, And R Programming at CliniHunt Skilix Academy, Pune. Specialized in end-to-end clinical data transformation, CDISC standards (SDTM/ADaM mapping), and regulatory-compliant TLF generation using SAS OnDemand for Academics. Certified in Good Clinical Practice (ICH-GCP E6) with hands-on expertise in Phase III Oncology clinical trial workflows, 
+SAS Certified Specialist (Base SAS 9.4) and M.Pharm (Pharmacology) postgraduate with 7 -month industry internship & advanced training in SAS, And R Programming at CliniHunt Skilix Academy, Pune. Specialized in end-to-end clinical data transformation, CDISC standards (SDTM/ADaM mapping), and regulatory-compliant TLF generation using SAS OnDemand for Academics. Certified in Good Clinical Practice (ICH-GCP E6) with hands-on expertise in Phase III Oncology clinical trial workflows, 
 seeking an Entry-level Clinical SAS / Statistical Programmer role in a global CRO or sponsor organization
 
 ---
@@ -27,9 +27,7 @@ seeking an Entry-level Clinical SAS / Statistical Programmer role in a global CR
 
 •  **Good Clinical Practice (ICH-GCP E6):** NIDA Clinical Trials Network (Issued Jul 2026)
 
-•  **Clinical SAS Intern :**  4-Month Industry Internship & Advanced Training (SAS, R Programming) at CliniHunt Skilix Academy, Pune;  worked on Live Client Consultation Projects for End-to-End CDISC - SDTM / ADaM / TLFs Workflow.
-
-•  **Data Analysis with Python :-**  Certificate Course by IBM (via Coursera)
+•  **Clinical SAS Intern :**  7 -Month Industry Internship & Advanced Training (SAS, R Programming) at CliniHunt Skilix Academy, Pune;  worked on Live Client Consultation Projects for End-to-End CDISC - SDTM / ADaM / TLFs Workflow.
 
 •  **R Programming :-** Certificate Course by Johns Hopkins University (via Coursera)
 
@@ -42,8 +40,6 @@ seeking an Entry-level Clinical SAS / Statistical Programmer role in a global CR
 •   **SAS Programming & Tools** :- Base SAS 9.4, SAS OnDemand for Academics, DATA Step, SAS Macros, PROC SQL, PROC REPORT.
 
 •   **Data Standards /QC**:- CDISC SDTM, ADaM, TLF Generation (Tables, Listings, Figures), CDASH Guidelines, Double Programming.
-
-•   **Python Programming** :- Pandas, NumPy, SciPy, Data Wrangling, Data Cleansing, Exploratory Data Analysis, Data Transformation.
 
 •   **R Statistical Programming** :- Statistical Analysis, Data Import/Export, Data Structures, Loop Functions, Data Manipulation.
 
